@@ -8,7 +8,7 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| Edmund Brand Edward Junior| 2526377 | edmundbrandjr13-git |
+| --- | --- | --- |
 |  |  |  |
 
 ## O cenário
